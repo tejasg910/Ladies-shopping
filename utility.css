@@ -1,0 +1,80 @@
+.bold{
+    font-weight: bold;
+}
+.white{
+    color: white;
+}
+.removestyle{
+    text-decoration: none;
+}
+.size{
+    font-size: 25px;
+}
+
+.mgt3{
+    padding: 10px;
+}
+
+.button{
+    background-color: rgb(218, 27, 135);
+    border: 1px solid white;
+}
+
+.flexc{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.green{
+    color: rgb(35, 201, 35);
+}
+
+.flexr{
+    display: flex;
+}
+.center{
+    justify-content: center;
+    align-items: center;
+}
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.centeralign{
+    text-align: center;
+}
+
+.pink{
+    color: rgb(240, 21, 153);
+}
+.show{
+
+    transform: translatex(0px);
+    transition: 1s;
+}
+
+
+.none
+{
+    transform: translatex(-234px);
+    transition: 1s;
+
+}
+
+.size20{
+    height: 20px;
+}
+
+.bgblack{
+    background-color: black;
+}
+
+.space{
+    justify-content: center;
+}
+
+.inline{
+    display: inline-block;
+}
